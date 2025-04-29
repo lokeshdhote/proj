@@ -1,0 +1,8 @@
+/* .rightSide::-webkit-scrollbar{
+    display: none;
+} */
+.dropdown-item:hover {
+    background-color: #f0f8ff;
+    color: #1e3a8a;
+  }
+  
